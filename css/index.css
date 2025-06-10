@@ -1,0 +1,14 @@
+body {
+  background-color: #19a2ae;
+}
+.card {
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+@media (max-width: 767px) {
+  .container {
+    width: 90% !important;
+  }
+}
